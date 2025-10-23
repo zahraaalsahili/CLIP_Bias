@@ -1,7 +1,7 @@
 # CLIP_Bias  
 _Auditing and mitigating social bias in contrastive vision-language models_
 
-Author: **Zahraa Al Sahili**  
+Authors: **Zahraa Al Sahili**, **Ioannis Patras**, and **Matthew Purver** 
 📄 Paper: [Data Matters Most: Auditing Social Bias in Contrastive Vision–Language Models (TMLR, 2025)](https://openreview.net/forum?id=3vF2fn9owm)
 
 ---
