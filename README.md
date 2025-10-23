@@ -39,4 +39,4 @@ If you use this repository, please cite:
   year={2025},
   url={https://openreview.net/forum?id=3vF2fn9owm}
 }
-Please also cite CLIP, OpenCLIP, FairFace, and PATA when used in your work.
+
